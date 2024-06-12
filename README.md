@@ -6,3 +6,4 @@ Mudança
 
 Changes
 
+Alterações
