@@ -4,6 +4,6 @@ Curso de 20h para Java, Git, Banco de Dados, Estrutura de Dados e Design Pattern
 
 Projeto de Array para lista de supermercado nos pacotes "main" e "implementation" com inserção, listagem e remoção de itens.
 
-Exemplos de Lista Ligada, Pilhas, Filas, Árvores e Árvores binárias de busca no pacote "EstruturaDeDados".
+Exemplos de lista ligada, pilhas, filas, árvores e árvores binárias de busca no pacote "EstruturaDeDados".
 
 Resolução de problemas no pacote "Problemas" para árvore maior, fila reversa e pilhas.
