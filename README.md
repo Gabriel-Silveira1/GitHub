@@ -1,3 +1,3 @@
 # Santander Coders
 
-Projeto em Java de Arrays para uma lista de supermercado
+Listas ligadas, pilhas, filas, árvores e árvores binárias em Java.
